@@ -1,3 +1,3 @@
 # ecommerce site
 
-simple sneaker ecommerce site
+Sneaker ecommerce site
