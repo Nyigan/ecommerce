@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 body {
     font-family: 'IBM Plex Sans', sans-serif;
     padding: 0;
